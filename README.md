@@ -18,7 +18,7 @@ Any browser
 
 ### Running the Program
 
-In order to run the program, download the source files into the same folder and open hill-cipher.html with a browser of your choice.
+In order to run the program, download the source files into the same folder and open **hill-cipher.html** with a browser of your choice.
 
 
 ## Authors
