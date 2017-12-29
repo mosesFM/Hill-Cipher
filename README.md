@@ -1,7 +1,8 @@
 # Hill-Cipher
 JavaScript Implementation of the Hill cipher
 
-This program has the capability to encrypt or decrypt text based on the keyword provided.
+This program has the capability to encrypt or decrypt text based on the key matrix provided. The program takes a matrix of numbers
+interpreted as the key for encryption or decryption. In order for the encryption or decryption to be successful, the key matrix input should be **invertible**.
 
 ## Getting Started
 
