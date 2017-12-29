@@ -1,0 +1,191 @@
+body {
+  padding: 25px;
+}
+
+#textP, #textC {
+  padding: 10px;
+  width: 50%;
+  height: 150px;
+  margin-left: 50px;
+}
+
+#choice {
+  color: black;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#encT, #decT {
+  color: #000;
+  width: 50%;
+  height: 80px;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 100px;
+}
+
+
+#subButton {
+  background-color: #4CDF50;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  height: 50px;
+  font-size: 12pt;
+  font-weight: 600;
+  margin-left: 20px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+#subButtonH {
+  background-color: #4CDF50;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  height: 50px;
+  font-size: 12pt;
+  font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+#encButton0, #decButton0 {
+  background-color: #73cf2a;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  display: block;
+  height: 50px;
+  font-size: 12pt;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-left: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+#enhButton0, #dehButton0 {
+  background-color: #73cf2a;
+  border: none;
+  border-radius: 5px;
+  color: black;
+  display: inline;
+  height: 50px;
+  font-size: 12pt;
+  font-weight: 600;
+  margin: 5px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+#EDMenu {
+  visibility: hidden;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+
+#decButton0 {
+  background-color: #9fbd38;
+  margin-top: -50px;
+  margin-left: 200px;
+}
+
+#encButton, #decButton {
+  background-color: #4CDF50;
+  border: none;
+  position: relative;
+  border-radius: 5px;
+  color: black;
+  display: block;
+  height: 50px;
+  font-size: 12pt;
+  font-weight: 600;
+  top: 25px;
+  left: 50px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+#Home {
+  background-color: #c1c8c1
+  border: none;
+  border-radius: 5px;
+  color: black;
+  height: 50px;
+  font-size: 12pt;
+  font-weight: 600;
+  width: 120px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+#m22 {
+  border: 1px solid #404440;
+  width: 150px;
+  margin-top: 50px;
+  padding: 10px;
+}
+
+#m33 {
+  border: 1px solid #404440;
+  visibility: hidden;
+  position: absolute;
+  left: 200px;
+  top: 320px;
+  width: 210px;
+  height: 150px;
+  margin-top: 30px;
+  padding: 10px;
+}
+
+input[type="number"] {
+  width: 50px;
+  height: 30px;
+  margin: 5px;
+  padding: 5px;
+}
+
+p#inputT {
+  font-size: 16pt;
+  display: inline-block;
+  margin-top: 50px;
+}
+
+#inputTM {
+  font-size: 16pt;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+p#inputP, #inputC {
+  font-size: 16pt;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+#intext {
+  margin-left: 20px;
+  padding: 10px;
+  width: 30%;
+}
+
+input[type=text] {
+  border-radius: 4px;
+}
